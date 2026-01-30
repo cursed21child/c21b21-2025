@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! Jackpot fo' me'h! Aren't I lucky?",
-        message: "MUA7 3lik, I love you! I couldn't wait! Too worried someone is going to ask you before me!!",
+        title: "Yay! Jackpot fo' me'h!",
+        message: "MUA7 3lik, I love you! I am so lucky!!",
 !",
         emojis: "🐑❤️"  // These will bounce around
     },
